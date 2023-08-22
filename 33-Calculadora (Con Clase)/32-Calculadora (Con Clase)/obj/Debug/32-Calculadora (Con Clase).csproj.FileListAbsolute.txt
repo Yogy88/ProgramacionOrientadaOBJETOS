@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\32-Calculadora (Con Clase)\32-Calculadora (Con Clase)\bin\Debug\32-Calculadora (Con Clase).exe
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\32-Calculadora (Con Clase)\32-Calculadora (Con Clase)\bin\Debug\32-Calculadora (Con Clase).pdb
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\32-Calculadora (Con Clase)\32-Calculadora (Con Clase)\obj\Debug\32-Calculadora (Con Clase).csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\32-Calculadora (Con Clase)\32-Calculadora (Con Clase)\obj\Debug\32-Calculadora (Con Clase).csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\32-Calculadora (Con Clase)\32-Calculadora (Con Clase)\obj\Debug\32-Calculadora (Con Clase).exe
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\32-Calculadora (Con Clase)\32-Calculadora (Con Clase)\obj\Debug\32-Calculadora (Con Clase).pdb

@@ -1,0 +1,10 @@
+C:\Users\Yogy\Documents\MEGA\visual estudio\Ejercicios\Ventasdelmes 191107\Ventasdelmes 191107\obj\x86\Debug\Ventasdelmes 191107.csprojResolveAssemblyReference.cache
+C:\Users\Yogy\Documents\MEGA\visual estudio\Ejercicios\Ventasdelmes 191107\Ventasdelmes 191107\bin\Debug\Ventasdelmes 191107.exe
+C:\Users\Yogy\Documents\MEGA\visual estudio\Ejercicios\Ventasdelmes 191107\Ventasdelmes 191107\bin\Debug\Ventasdelmes 191107.pdb
+C:\Users\Yogy\Documents\MEGA\visual estudio\Ejercicios\Ventasdelmes 191107\Ventasdelmes 191107\obj\x86\Debug\Ventasdelmes 191107.exe
+C:\Users\Yogy\Documents\MEGA\visual estudio\Ejercicios\Ventasdelmes 191107\Ventasdelmes 191107\obj\x86\Debug\Ventasdelmes 191107.pdb
+C:\Users\matia\Documents\MEGA\FACU\visual estudio\Ejercicios\Ventasdelmes 191107\Ventasdelmes 191107\bin\Debug\Ventasdelmes 191107.exe
+C:\Users\matia\Documents\MEGA\FACU\visual estudio\Ejercicios\Ventasdelmes 191107\Ventasdelmes 191107\bin\Debug\Ventasdelmes 191107.pdb
+C:\Users\matia\Documents\MEGA\FACU\visual estudio\Ejercicios\Ventasdelmes 191107\Ventasdelmes 191107\obj\x86\Debug\Ventasdelmes 191107.exe
+C:\Users\matia\Documents\MEGA\FACU\visual estudio\Ejercicios\Ventasdelmes 191107\Ventasdelmes 191107\obj\x86\Debug\Ventasdelmes 191107.pdb
+C:\Users\matia\Documents\MEGA\FACU\visual estudio\Ejercicios\Ventasdelmes 191107\Ventasdelmes 191107\obj\x86\Debug\Ventasdelmes 191107.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\tauro\Desktop\PorcentajesDeInversion\PorcentajesDeInversion\bin\Debug\PorcentajesDeInversion.exe
+C:\Users\tauro\Desktop\PorcentajesDeInversion\PorcentajesDeInversion\bin\Debug\PorcentajesDeInversion.pdb
+C:\Users\tauro\Desktop\PorcentajesDeInversion\PorcentajesDeInversion\obj\Debug\PorcentajesDeInversion.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\PorcentajesDeInversion\PorcentajesDeInversion\obj\Debug\PorcentajesDeInversion.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\PorcentajesDeInversion\PorcentajesDeInversion\obj\Debug\PorcentajesDeInversion.exe
+C:\Users\tauro\Desktop\PorcentajesDeInversion\PorcentajesDeInversion\obj\Debug\PorcentajesDeInversion.pdb

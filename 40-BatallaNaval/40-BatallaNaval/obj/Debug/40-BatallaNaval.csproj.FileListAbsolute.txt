@@ -1,0 +1,6 @@
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\40-BatallaNaval\40-BatallaNaval\bin\Debug\40-BatallaNaval.exe
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\40-BatallaNaval\40-BatallaNaval\bin\Debug\40-BatallaNaval.pdb
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\40-BatallaNaval\40-BatallaNaval\obj\Debug\40-BatallaNaval.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\40-BatallaNaval\40-BatallaNaval\obj\Debug\40-BatallaNaval.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\40-BatallaNaval\40-BatallaNaval\obj\Debug\40-BatallaNaval.exe
+C:\Users\tauro\Downloads\Ejercicios de Programacion 2\40-BatallaNaval\40-BatallaNaval\obj\Debug\40-BatallaNaval.pdb
